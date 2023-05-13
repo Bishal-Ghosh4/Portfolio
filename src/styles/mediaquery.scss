@@ -3,6 +3,7 @@
   #about>section>article img {
     width: 310px;
   }
+
   #project {
     padding: 8rem $p_md;
     height: 110vh;
@@ -309,17 +310,19 @@
 }
 
 @media screen and (max-width: 786px) {
-  .navPhoneComes{
-    img{
+  .navPhoneComes {
+    img {
       width: 300px;
       height: 150px;
     }
   }
+
   #home>section:last-of-type::after {
     right: 3px;
   }
 
   nav {
+    background-color: #ffffff00;
 
     >div,
     >a {
@@ -449,6 +452,7 @@
 
   #project {
     width: 125%;
+
     >section {
       >article {
         width: 100%;
@@ -484,6 +488,8 @@
   }
 
   #experience {
+    background-color: #ffffff00;
+
     .timelineBox::after {
       left: 31px;
     }
@@ -563,9 +569,14 @@
     width: 390px;
   }
 
-  #project{
-    width:140%;
+  #project {
+    width: 140%;
   }
+
+  #experience {
+    width: 125%;
+  }
+
   #skills {
     height: 310vh;
 
@@ -579,16 +590,29 @@
 @media screen and (max-width: 425px) {
   #home {
     width: 152%;
-    >section{
-      &:last-of-type::after{
-        right: -80px;
+
+    >section {
+      &:last-of-type>img {
+        width: 89vmax;
+      }
+
+      &:last-of-type::after {
+        right: -180px;
+        width: 60vmax;
+        height: 60vmax;
+        bottom: 200px;
       }
     }
   }
-  #about{
+
+  #about {
     width: 154%;
   }
-  #project{
+
+  #project {
     width: 154%;
+  }
+  #experience{
+    width:140%;
   }
 }
