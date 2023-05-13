@@ -593,11 +593,18 @@
 }
 
 #skills {
-  height: 310vh;
+  height: 280vh;
+  width: 140%;
 
   >section {
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(2, 1fr);
   }
+}
+#contact{
+  width: 142%;
+}
+footer {
+  width:142%;
 }
 }
 
