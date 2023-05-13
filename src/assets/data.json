@@ -1,0 +1,89 @@
+{
+  "projects": [
+    {
+      "date": "10/05/2023",
+      "title": "PORTFOLIO",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "/",
+      "imgSrc": "projects/portfolio.png"
+    },
+    {
+      "date": "20/04/2023",
+      "title": "Student Record Keeping ",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://recordkeeping-app.netlify.app/",
+      "imgSrc": "projects/student.png"
+    },
+    {
+      "date": "10/04/2023",
+      "title": "Movies4u Clone",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://movies-4u.netlify.app/",
+      "imgSrc": "projects/movie.png"
+    },
+    {
+      "date": "22/01/2023",
+      "title": "UDAYAN College Fest  ",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://bishal-ghosh4.github.io/Trifest_Site/",
+      "imgSrc": "projects/techfest.png"
+    },
+
+    {
+      "date": "15/12/2022",
+      "title": "Hospital Management System",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://github.com/Bishal-Ghosh4/Hospital_Managment_System",
+      "imgSrc": "projects/hospital.png"
+    },
+    {
+      "date": "04/09/2021",
+      "title": "Administration Page",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://kamal-acharya.github.io/kamal/",
+      "imgSrc": "projects/trident.png"
+    },
+    {
+      "date": "18/08/2021",
+      "title": "Daksha EduTech",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://bishal-ghosh4.github.io/Daksha-Edu-tech/",
+      "imgSrc": "projects/daksha.png"
+    },
+    {
+      "date": "20/10/2020",
+      "title": "TAKE A NOTE",
+      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
+      "url": "https://bishal-ghosh4.github.io/Take-A-Note/",
+      "imgSrc": "projects/note.png"
+    }
+  ],
+
+  "education": [
+    {
+      "edu": "Junior Software Engineer",
+      "name": "CSM Technologies",
+      "date": "May 23 - Present"
+    },
+    {
+      "edu": "Web Developer Intern",
+      "name": "Cisco thingQbator TAT",
+      "date": "July 21 - Aug 21"
+    },
+    {
+      "edu": "BTech",
+      "name": "Trident Academy of Technology",
+      "date": "Aug 19 - Aug 23"
+    },
+    {
+      "edu": "12th",
+      "name": "Kendriya Vidyalaya No-2 Salt Lake ",
+      "date": "Apr 18 - Mar 19"
+    },
+    {
+      "edu": "10th",
+      "name": "Kendriya Vidyalaya No-2 Salt Lake ",
+      "date": "June 16 - Mar 17"
+    }
+  ]
+}
