@@ -565,25 +565,40 @@
     }
   }
 
-  #about>section>article img {
-    width: 390px;
-  }
-
-  #project {
-    width: 140%;
-  }
-
-  #experience {
-    width: 125%;
-  }
-
-  #skills {
-    height: 310vh;
-
+  #about {
     >section {
-      grid-template-columns: repeat(1, 1fr);
+      >article {
+        img {
+          width: 390px;
+        }
+      }
+
+      >aside {
+        span {
+          width: 170px;
+          text-align: center;
+        }
+      }
     }
   }
+
+
+
+#project {
+  width: 140%;
+}
+
+#experience {
+  width: 125%;
+}
+
+#skills {
+  height: 310vh;
+
+  >section {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
 }
 
 
@@ -612,7 +627,8 @@
   #project {
     width: 154%;
   }
-  #experience{
-    width:140%;
+
+  #experience {
+    width: 140%;
   }
 }
