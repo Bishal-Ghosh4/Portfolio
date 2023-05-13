@@ -180,7 +180,7 @@
       &:last-of-type {
 
         >img {
-          height: 80vmax;
+          height: 75vmax;
         }
       }
     }
@@ -593,7 +593,7 @@
 }
 
 #skills {
-  height: 280vh;
+  height: 220vh;
   width: 140%;
 
   >section {
@@ -637,5 +637,14 @@ footer {
 
   #experience {
     width: 140%;
+  }
+  #skills {
+    width: 155%;
+  }
+  #contact{
+    width: 155%;
+  }
+  footer{
+    width: 155%;
   }
 }

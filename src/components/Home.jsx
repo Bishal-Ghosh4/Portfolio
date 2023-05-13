@@ -45,6 +45,7 @@ const Home = ({ ratio }) => {
   };
   return (
     <div id="home">
+          
       <section>
         <div>
           <motion.h1 {...animations.h1}>
